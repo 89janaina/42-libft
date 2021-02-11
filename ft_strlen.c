@@ -6,11 +6,11 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:21:37 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/05 20:33:29 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/08 15:43:48 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 int		ft_strlen(char *str)
 {
