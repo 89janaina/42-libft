@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:20:53 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:42:50 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:17:19 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int         ft_isalnum(int c)
+{
+
+}

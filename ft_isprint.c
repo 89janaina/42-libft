@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:21:06 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:43:05 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:17:43 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int         ft_isprint(int c)
+{
+    
+}

@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:22:15 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:44:05 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:17:56 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int         ft_toupper(int c)
+{
+
+}

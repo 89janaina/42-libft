@@ -6,8 +6,20 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:20:50 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:42:46 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 22:56:25 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+void	ft_bzero(void *s, size_t n)
+{
+	char *clean;
+
+	clean = s;
+	while (n != 0)
+	{
+		*clean++ = 0;
+		n--;
+	}
+}

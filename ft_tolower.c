@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:22:09 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:44:02 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:18:08 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int         ft_tolower(int c)
+{
+
+}

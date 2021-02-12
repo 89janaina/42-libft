@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:21:03 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:43:02 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:17:02 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int         ft_isdigit(int c)
+{
+
+}

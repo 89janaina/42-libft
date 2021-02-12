@@ -6,21 +6,21 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:21:37 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:43:48 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 23:27:01 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int		ft_strlen(char *str)
+size_t      ft_strlen(const char *s)
 {
-	int i;
+	size_t i;
 
 	i = 0;
-	while (*str != '\0')
+	while (*s != '\0')
 	{
 		i++;
-		str++;
+		s++;
 	}
 	return (i);
 }

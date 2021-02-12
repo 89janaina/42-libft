@@ -6,8 +6,13 @@
 /*   By: janainas <janainas@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/05 20:22:05 by janainas          #+#    #+#             */
-/*   Updated: 2021/02/08 15:43:59 by janainas         ###   ########.fr       */
+/*   Updated: 2021/02/11 19:15:54 by janainas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+char        *ft_strrchr(const char *s, int c)
+{
+
+}
